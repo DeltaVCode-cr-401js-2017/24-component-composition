@@ -1,4 +1,4 @@
-![cf](https://i.imgur.com/7v5ASc8.png) 24: Component Composition
+![DV](https://www.deltavcodeschool.com/wp-content/uploads/DeltaV.png) 24: Component Composition
 ======
 
 ## Submission Instructions
